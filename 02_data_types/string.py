@@ -53,7 +53,7 @@ print(name.title())        # Python Programming
 print(name.capitalize())   # Python programming
 
 print(name.count("p"))     # 2   (counts occurrences of "p")
-print(name.find("gram"))   # 11  (index where "gram" starts, -1 if not found)
+print(name.find("gram"))   # 10  (index where "gram" starts, -1 if not found)
 print(name.replace("python", "java"))  # java programming
 
 # --- Checking string content ---
